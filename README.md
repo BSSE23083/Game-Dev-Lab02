@@ -1,3 +1,3 @@
 # Game-Dev-Lab02
 Hands on Git Basics.
-Player speed = 4
+Player speed = 6
